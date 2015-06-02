@@ -1,14 +1,8 @@
 [
   {
-      "name": "dcraft.phar",
-      "sha1": "871725ede692398c419b44736eff61b4aa4327de",
-      "url": "http://pawski.github.io/dcraft-scx-archive/releases/dcraft-1.0.0.phar",
-      "version": "1.0.0"
-  },
-  {
     "name": "dcraft.phar",
-    "sha1": "ef44c53c0bf38a3faf95640e7fca2ff24b58a9d4",
-    "url": "http://pawski.github.io/dcraft-scx-archive/releases/dcraft-1.1.1.phar",
-    "version": "1.1.1"
+    "sha1": "83faf432b70186fc861a1103fe51344d0b43d40c",
+    "url": "http://pawski.github.io/dcraft-scx-archive/releases/dcraft-1.1.2.phar",
+    "version": "1.1.2"
   }
 ]
