@@ -4,5 +4,11 @@
     "sha1": "6881a8eb740650ffaa89c1cf622140d8f65111cb",
     "url": "https://raw.githubusercontent.com/pawski/dcraft-scx-archive/master/releases/dcraft-1.1.6.phar",
     "version": "1.1.6"
+  },
+  {
+    "name": "dcraft.phar",
+    "sha1": "63d8294cdd8f2a41ba63d25710293d6e4ea731e4",
+    "url": "https://www.dropbox.com/s/g4q0eaecsbxv9c0/dcraft-1.1.7.phar?dl=1",
+    "version": "1.1.7"
   }
 ]
